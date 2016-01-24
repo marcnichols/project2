@@ -90,6 +90,8 @@ An online storage place for your repository.
 16 We see a need! 
 
 Why was git created? 
+There was another competing product that wasn't free. So a team of Linux kernel developers created git, and the rest
+is history.
 
 
 17 A day in the life of git 
