@@ -122,4 +122,4 @@ It should be terse but informative.
 22 Great Scott! 
 
 If there was a mistake made in the past of a project, how should we go about correcting that mistake? 
- 
+ Just make a branch, correct the issue, commit it and move forward.
