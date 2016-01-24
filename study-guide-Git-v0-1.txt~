@@ -47,6 +47,7 @@ Branches exist until deleted. Even after deletion, their history can remain.
 8 Tree growth 
 
 How do you create a branch in git? 
+Use the command git branch nameofbranch
 
 
 9 Swinging on a vine 
