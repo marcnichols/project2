@@ -102,7 +102,7 @@ Create a branch, add commits, discuss with team, merge. Above all commit often a
 18 Why git? 
 
 What makes git di¥¥erent than other version control systems? 
-
+git branches keep their history even after deletion, git is faster and more lightwieght, git's repositories a small so it's ok to commit often, git is fully distributed, git is safter to use as corruption is extremely rare.
 
 19 What were they thinking?! 
 
