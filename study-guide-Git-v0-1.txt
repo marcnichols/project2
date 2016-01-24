@@ -58,7 +58,7 @@ Run the git checkout commnad. Ex; git checkout nameofbranch
 10 Taping it together 
 
 How do you merge branches in git? 
-
+checkout the master branch by doing git checkout master, then merge the edit you did by using git merge fixbug.
 
 11 Status 
 

@@ -53,7 +53,7 @@ Use the command git branch nameofbranch
 9 Swinging on a vine 
 
 How do you switch branches in git? 
-
+Run the git checkout commnad. Ex; git checkout nameofbranch
 
 10 Taping it together 
 
