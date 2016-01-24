@@ -107,7 +107,7 @@ git branches keep their history even after deletion, git is faster and more ligh
 19 What were they thinking?! 
 
 What were the design criteria for git? 
-
+It was to be bit keeper-like, but open source. It was to be fast, light and include extreme safeguards against corruption and it needed to have ability to merge multiple branches.
 
 20 Time machine 
 
