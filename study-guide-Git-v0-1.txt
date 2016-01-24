@@ -97,7 +97,7 @@ is history.
 17 A day in the life of git 
 
 What is a typical git workﬂow? 
-
+Create a branch, add commits, discuss with team, merge. Above all commit often and don't look into past.
 
 18 Why git? 
 
