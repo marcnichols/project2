@@ -63,6 +63,7 @@ checkout the master branch by doing git checkout master, then merge the edit you
 11 Status 
 
 How do you check the status of the Þles you are presently working on? 
+git status
 
 
 12 Adding to the chaos 
