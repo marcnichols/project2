@@ -11,6 +11,7 @@ It's a system that let's you record changes to a file or several files.
 2 Where the heart is 
 
 What is the difference between distributed and centralized version control systems? 
+Git is a distributed version control system and it allows the user to have more control locally. Centralized version control systems act more like an AS/400 where the power is at the server and not the client/terminal.
 
 
 3 Versa who?! 
