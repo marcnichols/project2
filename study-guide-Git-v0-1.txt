@@ -5,6 +5,7 @@ Study Guide
 1 Versa what?! 
 
 What is version control?
+It's a system that let's you record changes to a file or several files.
 
  
 2 Where the heart is 
