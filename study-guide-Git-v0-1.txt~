@@ -68,8 +68,8 @@ git status
 
 12 Adding to the chaos 
 
-How do you add Þles to the repository? 
-
+How do you add files to the repository? 
+git add .
 
 13 The main line 
 
