@@ -35,7 +35,8 @@ It updates files in the working tree so they'll match the revision being worked 
 6 It’s like a tree limb 
 
 What is a branch? 
-
+If you make some changes and commit again, the next commit stores a pointer to the commit that came immediately before it.
+A branch in Git is simply a lightweight moveable pointer to one of these commits.
  
 7 The life of a limb 
 
