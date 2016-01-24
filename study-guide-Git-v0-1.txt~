@@ -41,6 +41,7 @@ A branch in Git is simply a lightweight moveable pointer to one of these commits
 7 The life of a limb 
 
 How long are branches in git supposed to exist? 
+Branches exist until deleted. Even after deletion, their history can remain.
 
 
 8 Tree growth 
