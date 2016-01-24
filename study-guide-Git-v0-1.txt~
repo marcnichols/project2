@@ -29,6 +29,7 @@ a.k.a. checkin, it actually records teh update you just made into a new revision
 5 Checking out git 
 
 What is a check out? 
+It updates files in the working tree so they'll match the revision being worked on.
 
 
 6 It’s like a tree limb 
