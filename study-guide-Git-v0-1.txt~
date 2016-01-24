@@ -17,6 +17,7 @@ Git is a distributed version control system and it allows the user to have more 
 3 Versa who?! 
 
 What does a version control program do for us? 
+It frees us up to do bug fixes or updates. It allows a group of people to collaborate on a single project all the while tracking revisions of each team member.
 
 
 4 Committing to git 

@@ -23,6 +23,7 @@ It frees us up to do bug fixes or updates. It allows a group of people to collab
 4 Committing to git 
 
 What is a commit? 
+a.k.a. checkin, it actually records teh update you just made into a new revision.
 
 
 5 Checking out git 
